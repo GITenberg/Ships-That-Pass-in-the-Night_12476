@@ -1,0 +1,28 @@
+_repo: Ships-That-Pass-in-the-Night_12476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harraden, Beatrice
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '4389'
+    url: http://www.gutenberg.org/2009/agents/4389
+    wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
+description: This sentimental romance tells of a doomed love-affair between two patients
+  in a tuberculosis sanitarium.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Sick -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Death -- Fiction'
+- GITenberg
+title: Ships That Pass in the Night
+url: http://www.gutenberg.org/ebooks/12476
